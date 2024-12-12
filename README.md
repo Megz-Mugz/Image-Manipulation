@@ -1,3 +1,1 @@
-Due to the nature of this project, I am unable to make the code available for the entire world. If you are an employer and are interested in seeing what I developed, please email me at:
-
-rohan.mengle123@gmail.com
+Given that this is a school project, I cannot make the code public due to honor code infrigement; if you are an employer or someone who is interested in seeing my work, feel free to email me at rmengle123@gmail.com.
